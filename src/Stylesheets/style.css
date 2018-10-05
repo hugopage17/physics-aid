@@ -1,0 +1,57 @@
+html {
+  background-color: #e0e0e0;
+}
+
+#header{
+  background-color: #1c1c1c;
+  color: #a800ff;
+  padding:20px;
+  box-shadow: 1px 3px 10px grey;
+  text-align: left;
+}
+
+#sidebar{
+  background-color: #1c1c1c;
+  padding:20px;
+  color: #a800ff;
+}
+
+#sidebar .subcatTitle{
+  text-align: left;
+}
+
+#sidebar .subcatTitle:hover{
+  color:white;
+}
+
+#workPanel{
+  background-color: #1c1c1c;
+  box-shadow: 1px 3px 10px grey;
+  margin:auto;
+  width:80%;
+  padding: 20px;
+  margin-top: 20px;
+  color:white;
+}
+
+#inputwidget{
+  padding:5px;
+  border-radius: 5px;
+}
+
+#innerDiv{
+  margin-bottom: 10px;
+}
+
+
+#butStyle{
+  padding: 5px;
+  color: #a800ff;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+#resultsSection {
+  font-size: 22px;
+  margin-top: 30px;
+}
